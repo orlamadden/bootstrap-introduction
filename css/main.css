@@ -1,4 +1,30 @@
 body {
-    background-color: #82f0b0;
+    background-color: cyan;
     font-family: 'Roboto', sans-serif;
+}
+
+.alert-container {
+
+}
+
+.callout-container {
+    height: 100vh;
+    background: url('../images/whiskey-background.jpg') no-repeat bottom right fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.quotes-container {
+
+}
+
+.features-container {
+
 }
